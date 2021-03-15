@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img alt="design do projeto" width="650px" src="https://github.com/ghenriquec/aboutme-profile/blob/master/about-me.png" />
+  <img alt="design do projeto" width="650px" src="https://github.com/ghenriquec/profile-aboutme/blob/main/imgs/About-me.png" />
 <p>
 
 ## :bookmark: Sobre
